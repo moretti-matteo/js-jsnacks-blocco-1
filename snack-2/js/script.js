@@ -11,7 +11,7 @@ if (parola1.length > parola2.length) {
 } else if (parola1.length < parola2.length) {
     console.log(`la parola più corta è = ${parola1}`);
     console.log(`la parola più lunga è = ${parola2}`);
-
+    
 } else {
     console.log(`Le parole: ${parola1} e ${parola2} sono lunghe uguali`);
 }
