@@ -1,3 +1,5 @@
+// L’utente inserisce due numeri in successione, con due prompt. Il software stampa il maggiore.
+
 const num1 = prompt("Scrivi il primo numero");
 const num2 = prompt("Scrivi il secondo numero");
 
